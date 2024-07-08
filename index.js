@@ -1,4 +1,4 @@
-const Prompts = require('./lib/shapes.js')
+const Prompts = require('./lib/prompts.js')
 const prompts = new Prompts()
 
 prompts.run()
